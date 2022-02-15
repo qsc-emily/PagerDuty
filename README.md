@@ -1,9 +1,10 @@
 # PagerDuty Q-SYS Integration
 
+## Disclaimer:
 THIS IS A BETA RELEASE! IT WILL NOT BE SUPPORTED BY QSC SUPPORT IF YOU CALL THEM!
 IT COULD BE PULLED OFF THE REPO AT ANYTIME IF THE BETA STATUS IS REMOVED!
 
-
+## Overview: 
 This repo contains a PagerDuty Incidents Manager Integration. The goal is to allow for custom incidents to be created within Q-SYS and sent to PagerDuty. The controls can be placed on an UCI to allow for users to submit incidents based on their experience. 
 
 To view the underlying code, go to pager_duty.lua. To view the demo design go to pager_duty.qsys.
@@ -11,7 +12,7 @@ To view the underlying code, go to pager_duty.lua. To view the demo design go to
 Click here for instructions on setting up your integration within PagerDuty: https://support.pagerduty.com/docs/services-and-integrations
 
 
-Setup:
+## Setup:
 1. In pager_duty.qsys locate the "Setup" container. 
 2. Enter a room name for the incidents. Can be anything you'd like. The room name will be added to the beginning of all incidents. 
 3. Enter the email address associated with your PagerDuty integration.
