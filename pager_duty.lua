@@ -458,10 +458,11 @@ function clear_field(field)
 end
 
 function start_poll()
+  if api_key.String ~= '' then
     poll_incidents:Start(6)
+    get_inventory()
+    get_triggered_incidents()
+  end
 end
 
-get_inventory()
-poll_incidents.EventHandler = get_triggered_incidents
-get_triggered_incidents()
-start_poll()
+api_key.EventHandler = start_poll()
