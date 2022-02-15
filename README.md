@@ -21,11 +21,11 @@ Click here for instructions on setting up your integration within PagerDuty: htt
 
  
 
-Room Name Example: 
-> Conference Room
+- Room Name Example: 
+  - > Conference Room
 
-Service ID Example: 
-> PQGF9N
+- Service ID Example: 
+  - > PQGF9N
 
-API Key Example: 
-> Token token=u+asbsdfu293529352
+- API Key Example: 
+  - > Token token=u+asbsdfu293529352
