@@ -17,4 +17,4 @@ Click here for instructions on setting up your integration within PagerDuty: htt
 2. Enter a room name for the incidents. Can be anything you'd like. The room name will be added to the beginning of all incidents. 
 3. Enter the email address associated with your PagerDuty integration.
 4. Enter the Service ID that you received from PagerDuty when you setup the integration. (https://support.pagerduty.com/docs/services-and-integrations)
-5. Enter the API key for your integration. (Token token={apikey}) 
+5. Enter the API key for your integration. > Token token=u+asbsdfu293529352 
