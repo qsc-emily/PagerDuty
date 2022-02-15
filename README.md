@@ -15,11 +15,23 @@ Click here for instructions on setting up your integration within PagerDuty: htt
 ## Setup:
 1. In pager_duty.qsys locate the "Setup" container. 
 2. Enter a room name for the incidents. Can be anything you'd like. The room name will be added to the beginning of all incidents. 
+
+
+
 3. Enter the email address associated with your PagerDuty integration.
 4. Enter the Service ID that you received from PagerDuty when you setup the integration. (https://support.pagerduty.com/docs/services-and-integrations)
 
->PQGF9N
+
 
 5. Enter the API key for your integration. 
 
-> Token token=u+asbsdfu293529352 
+ 
+
+Room Name Example: 
+> Conference Room
+
+Service ID Example: 
+> PQGF9N
+
+API Key Example: 
+> Token token=u+asbsdfu293529352
