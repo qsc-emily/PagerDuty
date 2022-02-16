@@ -32,3 +32,7 @@ If you plan on contributing to this project, keep in mind that changing the LUA 
 
 - API Key Example: 
   - > Token token=u+asbsdfu293529352
+
+
+## License Type
+MIT
