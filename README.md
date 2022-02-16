@@ -16,7 +16,7 @@ Click here for instructions on setting up your integration within PagerDuty: htt
 
 - Product Manufacturer
   - PagerDuty
--Product Category
+- Product Category
   - Information Technology
 
 ## How to Contribute
