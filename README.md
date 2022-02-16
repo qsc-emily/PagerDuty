@@ -10,6 +10,10 @@ Integration Concept
 PagerDuty
 ### Product Category
 Information Technology
+### API Version
+PagerDuty Rest API
+### Tested On
+Q-SYS Designer 9.3.1
 ### License
 MIT
 ### Support:
