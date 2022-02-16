@@ -23,6 +23,7 @@ If you have questions or comments, please address them in the QSC Communities fo
 ### How to Contribute
 To view the underlying code, go to pager_duty.lua. To contribute to this project, keep in mind that changing the LUA file will not change the Q-SYS Design code, so please open and make changes within the .qsys file. The LUA file is here for viewing only.
 
+### API Setup
 Click here for instructions on setting up your integration within PagerDuty: https://support.pagerduty.com/docs/services-and-integrations
 
 ### Setup
