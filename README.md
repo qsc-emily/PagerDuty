@@ -34,5 +34,4 @@ If you plan on contributing to this project, keep in mind that changing the LUA 
   - > Token token=u+asbsdfu293529352
 
 
-## License
-MIT
+License: MIT
