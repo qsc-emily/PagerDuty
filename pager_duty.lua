@@ -1,7 +1,6 @@
 -- PagerDuty Integration
 -- Emily Eicher
 -- An integration with Q-SYS and PagerDuty API
-
 -- Constants
 local json = require("rapidjson")
 local url = 'https://api.pagerduty.com/incidents'
@@ -227,7 +226,7 @@ function get_specific_done(tbl, code, d, e)
     if get_response ~= nil then
         selected_incident_details.String = 'Title: ' .. get_response.incident.title .. '\n' .. 'Status: ' ..
         get_response.incident.status .. '\n' .. 'Urgency: ' ..
-        get_response.incident.urgency .. '\n' .. 'Details: '..get_response.incident.body.details
+        get_response.incident.urgency
         selected_incident_url.String = get_response.incident.html_url
     end
     get_note()
@@ -312,7 +311,7 @@ end
 
 function get_triggered_incidents()
     HttpClient.Download {
-        Url = "https://api.pagerduty.com/incidents?include[]=body?statuses%5B%5D=triggered&sort_by=" .. sort,
+        Url = "https://api.pagerduty.com/incidents?statuses%5B%5D=triggered&sort_by=" .. sort,
         Headers = {
             ["Authorization"] = api_key.String,
             ["Accept"] = "application/vnd.pagerduty+json;version=2",
@@ -338,7 +337,7 @@ end
 
 function get_specific_incident()
     HttpClient.Download {
-        Url = html_url..'?include[]=body',
+        Url = html_url,
         Headers = {
             ["Authorization"] = api_key.String,
             ["Accept"] = "application/vnd.pagerduty+json;version=2",
@@ -458,11 +457,10 @@ function clear_field(field)
 end
 
 function start_poll()
-  if api_key.String ~= '' then
     poll_incidents:Start(6)
-    get_inventory()
-    get_triggered_incidents()
-  end
 end
 
-api_key.EventHandler = start_poll()
+get_inventory()
+poll_incidents.EventHandler = get_triggered_incidents
+get_triggered_incidents()
+start_poll()
