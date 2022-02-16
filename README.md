@@ -40,5 +40,8 @@ If you plan on contributing to this project, keep in mind that changing the LUA 
 - API Key Example: 
   - > Token token=u+asbsdfu293529352
 
+## Screenshots
+![Screenshot 2022-02-15 130812](https://user-images.githubusercontent.com/99763087/154346675-23f63c89-9ddc-47b9-85e0-2cf6f82c7baa.png)
+
 
 License: MIT
