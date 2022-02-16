@@ -5,7 +5,7 @@
 This repo contains a PagerDuty Incidents Manager Integration. The goal is to allow for custom incidents to be created within Q-SYS and sent to PagerDuty. The controls can be placed on an UCI to allow for users to submit incidents based on their experience. 
 
 ### Support:
-THIS IS A ALPHA RELEASE! IT WILL NOT BE SUPPORTED BY QSC SUPPORT IF YOU CALL THEM!
+THIS IS A ALPHA RELEASE! IT IS NOT SUPPORTED BY QSC SUPPORT!
 IT COULD BE PULLED OFF THE REPO AT ANYTIME IF THE SOLUTION GOES INTO BETA STATUS!
 
 ### Solution Type: 
