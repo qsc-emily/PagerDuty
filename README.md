@@ -1,6 +1,6 @@
 # PagerDuty Q-SYS Integration
 
-## Disclaimer:
+## Support:
 THIS IS A BETA RELEASE! IT WILL NOT BE SUPPORTED BY QSC SUPPORT IF YOU CALL THEM!
 IT COULD BE PULLED OFF THE REPO AT ANYTIME IF THE BETA STATUS IS REMOVED!
 
@@ -17,15 +17,12 @@ Click here for instructions on setting up your integration within PagerDuty: htt
 ## How to Contribute
 If you plan on contributing to this project, keep in mind that changing the LUA file will not change the Q-SYS Design code, so please open and make changes within the .qsys file. The LUA file is here for viewing only.
 
-
 ## Setup:
 1. In pager_duty.qsys locate the "Setup" container. 
 2. Enter a room name for the incidents. Can be anything you'd like. The room name will be added to the beginning of all incidents. 
 3. Enter the email address associated with your PagerDuty integration.
 4. Enter the Service ID that you received from PagerDuty when you setup the integration. (https://support.pagerduty.com/docs/services-and-integrations)
 5. Enter the API key for your integration. 
-
- 
 
 - Room Name Example: 
   - > Conference Room
