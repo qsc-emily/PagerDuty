@@ -14,6 +14,11 @@ To view the underlying code, go to pager_duty.lua. To view the demo design go to
 
 Click here for instructions on setting up your integration within PagerDuty: https://support.pagerduty.com/docs/services-and-integrations
 
+- Product Manufacturer
+  - PagerDuty
+Product Category
+  - Information Technology
+
 ## How to Contribute
 If you plan on contributing to this project, keep in mind that changing the LUA file will not change the Q-SYS Design code, so please open and make changes within the .qsys file. The LUA file is here for viewing only.
 
