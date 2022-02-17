@@ -46,10 +46,12 @@ Click here for instructions on setting up your integration within PagerDuty: htt
 - API Key Example: 
   - > Token token=u+asbsdfu293529352
 
-## Screenshots and Videos
-![Screenshot 2022-02-15 130812](https://user-images.githubusercontent.com/99763087/154346675-23f63c89-9ddc-47b9-85e0-2cf6f82c7baa.png)
 
-https://user-images.githubusercontent.com/99763087/154532123-e327dc0c-0385-4d4c-b43a-dad59b3922c2.mp4
+## Screenshots and Videos
+
+https://user-images.githubusercontent.com/99763087/154532333-0d9f17bf-f1dc-465e-b62e-8fa0d090b8b2.mp4
+
+![Screenshot 2022-02-15 130812](https://user-images.githubusercontent.com/99763087/154346675-23f63c89-9ddc-47b9-85e0-2cf6f82c7baa.p
 
 
 
