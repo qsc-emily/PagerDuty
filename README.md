@@ -51,11 +51,8 @@ Click here for instructions on setting up your integration within PagerDuty: htt
 
 https://user-images.githubusercontent.com/99763087/154532333-0d9f17bf-f1dc-465e-b62e-8fa0d090b8b2.mp4
 
-![Screenshot 2022-02-15 130812](https://user-images.githubusercontent.com/99763087/154346675-23f63c89-9ddc-47b9-85e0-2cf6f82c7baa.p
 
-
-
-
+![Screenshot 2022-02-15 130812](https://user-images.githubusercontent.com/99763087/154532596-0327e2ef-70bc-4043-b22f-ad2941b84a2d.png)
 
 
 
