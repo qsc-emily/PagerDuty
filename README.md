@@ -4,22 +4,12 @@
 ### Description:
 This repo contains a PagerDuty Incidents Manager Integration. The goal is to allow for custom incidents to be created within Q-SYS and sent to PagerDuty. The controls can be placed on an UCI to allow for users to submit incidents based on their experience. 
 
-### Solution Type: 
-Integration Concept
-### Product Manufacturer:
-PagerDuty
-### Product Category:
-Information Technology
-### API Version:
-PagerDuty Rest API
-### Tested On:
-Q-SYS Designer 9.3.1
-### License:
-MIT
-### Support:
-THIS IS A ALPHA RELEASE! IT IS NOT OFFICIALLY SUPPORTED BY QSC!
-IT COULD BE PULLED OFF THE REPO AT ANYTIME IF THE SOLUTION GOES INTO BETA STATUS!
-If you have questions or comments, please address them in the QSC Communities for Developers Code Exchange. 
+## Screenshots and Videos
+
+https://user-images.githubusercontent.com/99763087/154532333-0d9f17bf-f1dc-465e-b62e-8fa0d090b8b2.mp4
+
+
+![Screenshot 2022-02-15 130812](https://user-images.githubusercontent.com/99763087/154532596-0327e2ef-70bc-4043-b22f-ad2941b84a2d.png)
 
 
 ## Instructions
@@ -47,12 +37,25 @@ Click here for instructions on setting up your integration within PagerDuty: htt
   - > Token token=u+asbsdfu293529352
 
 
-## Screenshots and Videos
-
-https://user-images.githubusercontent.com/99763087/154532333-0d9f17bf-f1dc-465e-b62e-8fa0d090b8b2.mp4
 
 
-![Screenshot 2022-02-15 130812](https://user-images.githubusercontent.com/99763087/154532596-0327e2ef-70bc-4043-b22f-ad2941b84a2d.png)
+## Additional Information
+### Solution Type: 
+Integration Concept
+### Product Manufacturer:
+PagerDuty
+### Product Category:
+Information Technology
+### API Version:
+PagerDuty Rest API
+### Tested On:
+Q-SYS Designer 9.3.1
+### License:
+MIT
+### Support:
+THIS IS A ALPHA RELEASE! IT IS NOT OFFICIALLY SUPPORTED BY QSC!
+IT COULD BE PULLED OFF THE REPO AT ANYTIME IF THE SOLUTION GOES INTO BETA STATUS!
+If you have questions or comments, please address them in the QSC Communities for Developers Code Exchange. 
 
 
 
