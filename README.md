@@ -53,7 +53,7 @@ Q-SYS Designer 9.3.1
 ### License:
 MIT
 ### Support:
-THIS IS A ALPHA RELEASE! IT IS NOT OFFICIALLY SUPPORTED BY QSC!
+THIS IS AN ALPHA RELEASE! IT IS NOT OFFICIALLY SUPPORTED BY QSC!
 IT COULD BE PULLED OFF THE REPO AT ANYTIME IF THE SOLUTION GOES INTO BETA STATUS!
 If you have questions or comments, please address them in the QSC Communities for Developers Code Exchange. 
 
