@@ -43,11 +43,11 @@ Click here for instructions on setting up your integration within PagerDuty: htt
 ### Solution Type: 
 Integration Concept
 ### Product Manufacturer:
-PagerDuty
+[PagerDuty](https://www.pagerduty.com/)
 ### Product Category:
 Information Technology
 ### API Version:
-PagerDuty Rest API
+[PagerDuty Rest API ](https://developer.pagerduty.com/docs/ZG9jOjQ2NDA2-introduction)
 ### Tested On:
 Q-SYS Designer 9.3.1
 ### License:
